@@ -12,5 +12,5 @@ Bilgisayar Türkiye'nin şehirlerinden gizli bir kelime seçer ve oyuncu, harf h
 
 ### Not
 
-Bu projeyi kendimi geliştirmek için yazdım. Görüş, öneri veya katkı yapmak istersen çok mutlu olurum!
+Bu projeyi kendimi geliştirmek için yazdım. Görüş, öneri veya katkı yapmak isterseniz çok mutlu olurum!
 
